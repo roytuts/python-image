@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/how-to-extract-text-from-images-in-python/
