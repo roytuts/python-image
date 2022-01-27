@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/how-to-reduce-image-size-using-python/
